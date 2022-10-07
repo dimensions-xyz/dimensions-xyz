@@ -17,3 +17,5 @@ I have been learning and developing software since 2019.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<p><img align = "right" src="https://github.com/dimensions-xyz/dimensions-xyz/blob/main/catrix.gif" width="500" height="320" /></p>
