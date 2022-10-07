@@ -18,7 +18,7 @@ I have been learning and developing software since 2019.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<p><img align = "center" src="https://github.com/dimensions-xyz/dimensions-xyz/blob/main/catrix.gif" width="500" height="320" /></p>
+<p><img align = "middle" src="https://github.com/dimensions-xyz/dimensions-xyz/blob/main/catrix.gif" width="500" height="320" /></p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
