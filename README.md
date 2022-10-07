@@ -18,7 +18,4 @@ I have been learning and developing software since 2019.
 
 <p><img align = "middle" src="https://github.com/dimensions-xyz/dimensions-xyz/blob/main/catrix.gif" width="500" height="320" /></p>
 
-<img height="120" alt="Thanks for visiting *-*" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
 ![Visitor Count](https://profile-counter.glitch.me/dimensions-xyz/count.svg)
