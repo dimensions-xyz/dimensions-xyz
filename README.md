@@ -20,5 +20,5 @@ I have been learning and developing software since 2019.
 
 ```diff
 @@ Thanks for visiting *-* @@
-```
 ![Visitor Count](https://profile-counter.glitch.me/dimensions-xyz/count.svg)
+```
