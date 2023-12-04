@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I have been learning and developing software since 2019.
+Since the year 2019, I've been actively engaged in learning and evolving in software development.
 
 ## That's all
 - 1 -> to be
