@@ -2,7 +2,7 @@
 
 I have been learning and developing software since 2019.
 
-## Decision Tree
+## That's all
 - 1 -> to be
 - ||   or
 - 0 -> not to be
