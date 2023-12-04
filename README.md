@@ -2,10 +2,10 @@
 
 I have been learning and developing software since 2019.
 
-# 1 -> to be
-# | or
-# 0 -> not to be
-# That's all.
+## Decision Tree
+- 1 -> to be
+- ||   or
+- 0 -> not to be
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimensions.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-kumral-1ab8391b1)
