@@ -13,7 +13,7 @@
 ## 📱 Current Work
 
 <p align="left">
-  I'm currently working as a <strong>Fullstack Mobile & Backend Developer</strong>. I build cross-platform mobile applications with Flutter and React Native, while designing scalable backend systems with Node.js, Python, and Go.
+  I'm currently working as a <strong>Fullstack Mobile & Backend Developer</strong>. I primarily develop native mobile applications for iOS and Android. On the backend side, I build scalable APIs with <strong>NestJS</strong> (Node.js) and PostgreSQL. I also manage server deployments, containerization with Docker, and use <strong>Cloudflare</strong> for reverse proxy, DNS management, CDN caching, DDoS protection, and SSL/TLS configurations.
 </p>
 
 ---
