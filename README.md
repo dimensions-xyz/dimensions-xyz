@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi There, I'm Yusuf</h1>
 
 <p align="left">
-  Since 2019, I've been working on software development, constantly learning and improving myself. I specialize in mobile and backend technologies, creating end-to-end solutions for modern applications.
+  Since 2019, I've been working on software development, focusing on mobile and backend technologies. I also integrate AI APIs into my projects to build smarter and more efficient applications.
 </p>
 
 <p align="left">
