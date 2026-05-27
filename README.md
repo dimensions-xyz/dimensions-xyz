@@ -53,11 +53,3 @@ I'm currently working on my own projects under the name <strong>ByteFlowy</stron
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
-
----
-
-## 📊 Activity Graph
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimensions-xyz&theme=radical" width="100%" alt="GitHub Activity Graph" />
-</div>
