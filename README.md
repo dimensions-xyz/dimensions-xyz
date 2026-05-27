@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi There, I'm Yusuf</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=435&lines=Mobile+Developer;Backend+Developer;Open+Source+Enthusiast;Since+2019" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&lines=Mobile+Developer;Backend+Developer;Security+Researcher;Open+Source+Enthusiast;Since+2019" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,15 +13,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/dimensions.xyz">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/dimensions.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=E4405F" />
   </a>
-  <a href="https://linkedin.com/in/yusuf-kumral-1ab8391b1">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dimensions-xyz">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" style="animation: pulse 1.5s infinite;" />
 </p>
 
 ---
@@ -58,23 +56,14 @@
 ### Databases & DevOps
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 Currently Focusing On
-
-- 🚀 Mobile & Backend Development
-- ☁️ Cloudflare Workers & Serverless
-- 📱 Flutter & React Native
-
----
-
 <p align="center">
-  <img src="https://github.com/dimensions-xyz/dimensions-xyz/blob/main/catrix.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/dimensions-xyz/dimensions-xyz/main/catrix.gif" width="500" />
 </p>
 
 ---
@@ -82,3 +71,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dimensions-xyz&label=Profile%20Views&color=7C3AED&style=flat" alt="profile views" />
 </p>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.1); opacity: 0.8; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+</style>
