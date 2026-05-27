@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi There, I'm Yusuf</h1>
 
 <p align="left">
-  Since 2019, I've been working on software development, focusing on mobile and backend technologies. I also integrate AI APIs into my projects to build smarter and more efficient applications.
+  Since 2019, I've been working on software development, focusing on mobile and backend technologies. I also integrate AI APIs into my projects to build smarter and more efficient applications, always aiming to deliver     high-quality results with every project I build.
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 ## 📱 Current Work
 
 <p align="left">
-I'm currently working on my own projects under the name <strong>ByteFlowy</strong> — it's my own independent venture. I develop mobile applications and backend systems on my own. I primarily build native mobile apps for iOS and Android. On the backend side, I create scalable APIs with <strong>NestJS</strong> (Node.js) and PostgreSQL. I also manage server deployments, containerization with Docker, and use <strong>Cloudflare</strong> for reverse proxy, DNS management, CDN caching, DDoS protection, and SSL/TLS configurations.
+I'm currently working on my own projects under the name <strong>ByteFlowy</strong>, it's my own independent venture. I develop mobile applications and backend systems on my own. I primarily build native mobile apps for iOS and Android. On the backend side, I create scalable APIs with <strong>NestJS</strong> (Node.js) and PostgreSQL. I also manage server deployments, containerization with Docker, and use <strong>Cloudflare</strong> for reverse proxy, DNS management, CDN caching, DDoS protection, and SSL/TLS configurations.
 </p>
 
 ---
