@@ -23,7 +23,6 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimensions-xyz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimensions-xyz&theme=radical&hide_border=false" width="49%" />
 </div>
 
@@ -44,7 +43,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
@@ -54,16 +52,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
----
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/dimensions-xyz/dimensions-xyz/main/catrix.gif" width="500" />
-</p>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dimensions-xyz&label=Profile%20Views&color=7C3AED&style=flat" alt="profile views" />
 </p>
