@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi There, I'm Yusuf</h1>
 
 <p align="left">
-  Since 2019, I've been actively engaged in learning and evolving in software development.
+  Since 2019, I've been working on software development, constantly learning and improving myself. I specialize in mobile and backend technologies, creating end-to-end solutions for modern applications.
 </p>
 
 <p align="left">
@@ -10,12 +10,10 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📱 Current Work
 
 <p align="left">
-  <a href="https://instagram.com/dimensions.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  I'm currently working as a <strong>Fullstack Mobile & Backend Developer</strong>. I build cross-platform mobile applications with Flutter and React Native, while designing scalable backend systems with Node.js, Python, and Go.
 </p>
 
 ---
@@ -36,6 +34,7 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
@@ -43,6 +42,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
